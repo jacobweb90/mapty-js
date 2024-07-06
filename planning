@@ -1,0 +1,74 @@
+///////////////////////////// Project Planning ////////////////////////////
+
+// Process
+/// Step 1: User Stories
+/// Step 2: Features
+/// Step 3: FlowChart
+/// Step 4: Architecture
+
+// Step 1: User stories
+/// The description of application functionality from user perspectives
+/// Overview of the overall application
+/// So that developer can determine the exact features in order to make the user stories work
+
+/// Formats:
+
+//// Sentence: As a [type of user] I want to perform [certain action] so that I can get [certain benefit] , who, what, why
+
+///// For example:
+///// 1. As a user, I want to log my running workouts with location, distance, time, pace and steps/minute, so I can keep a log of all my running
+
+///// 2. As a user, I want to log my cycling workouts with location, distance, time, speed and elevation gain, so I can keep a log of all my running
+
+///// 3. As a user, I want to see all my workout at a glance, so I can easily track my progress over time.
+
+///// 4. As a user, I want to see my workouts on a map, so that I can easily check where I work out the most
+
+///// 5. As a user, I want to see all my workouts when I leave the app and come back later, so that I can keep using the app over time
+
+//----------------------------------------------------------------------------
+// Step 2: Features
+/// So that developer can determine the exact features in order to make the user stories work
+/// Deciding features based on each user stories above
+
+//// 1.
+//// A map where an user can click to add new workout (get location coordinates)
+//// Geolocation to display map at current location (more user friendly so users do not to scroll to their location)
+//// Form to input distance, time, pace, steps/minute
+
+//// 2.
+///// Form to input distance, time, speed, elevation gain
+
+//// 3.
+///// Display all workouts in a list
+
+//// 4.
+///// Display all workouts on the map
+
+//// 5.
+///// store the workout data in the browser using local storage API
+
+//----------------------------------------------------------------------------
+
+// Step 3: Flowchart
+/// What we will build, what the program should do
+/// Visualise actions of the users and how can program react to the actions, we put into the flowchart
+
+/// best practices:
+//// start the flowchart with events like page loads
+
+//// It is common for the flowchart continously changing throughout implementation. We do not need to have a final flowchart in the planning phase.
+//// Refer the flowchat png
+
+//----------------------------------------------------------------------------
+
+// Step 4: Architecture
+/// How we will build it, how the program / application does the functions
+/// How we organise our code, what JavaScript we are going to use
+/// Structure and develop application functionality
+/// we do not need perfect final archictecture in the planning phase, alot of experiments and play around with the codes to find the best codes.
+/// Decide where and how we store the data
+
+// Step 1 to Step 4 are the planning steps
+
+//----------------------------------------------------------------------------
